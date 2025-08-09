@@ -43,7 +43,7 @@ Embed the screenshot in this README (it will render on GitHub):
 
 
 ## Demo
-<img src="media/image.png">
+<img src="media/image.jpg">
 
 ## Notes
 
