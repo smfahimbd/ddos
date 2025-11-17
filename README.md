@@ -14,7 +14,7 @@ A simple Node.js script for running high-request tests against a target URL.
 ## Quick install
 
 ```bash
-git clone https://github.com/smfahimcp/ddos.git
+git clone https://github.com/smfahimbd/ddos.git
 cd ddos
 npm install
 ```
